@@ -87,7 +87,7 @@ projects:
     intro: Project completed in GVSU web development course 
 
     assignments:
-      - title: No Sign In Sheet
+        title: No Sign In Sheet
         link: https://github.com/sullivlo/noSignInSheet/tree/master/no-sign-in-sheet
         tagline: "The problem we are addressing is the frustration of taking attendance for each class, keeping track of each class session attendance, and verifying students are not signing in for each other. A solution to this problem should be digital, easy to use, accessible via mobile devices, and provide verification that the students are actually in class. Link to public url: <a href="https://cis.gvsu.edu/~sullivlo/noSignInSheet/no-sign-in-sheet/dist/#/">no-sign-in-sheet</a>"
 
