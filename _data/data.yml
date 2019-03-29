@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Louis Sullivan
-    tagline: Front End Software Developer Intern
+    tagline: Front End Software Developer 
     avatar: me2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -40,87 +40,47 @@ sidebar:
       - item: Cooking
         link:
 
-career-profile:
-    title: Career Profile
+career-profile: 
+    title: 
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+    Louis is a ambitious self learner that is enthusiastic to work with skilled web developers. He has had 3 Software Development Internships and has tested and built User Interfaces. At his current internship he is given UI design control over his projects that are developed with React.js, Redux, Bootstrap, SCSS, CSS, HTML, and Font-Awesome API. Louis has experience designing academic, financial and discipline charts with QlikView/ QlikSence that allow the user to filter their data by peer group, age, and ethnicity. He has also built features such as modals, buttons, icons and layouts within a React.js web application. Louis is finishing up his bachelor’s degree in Computer Science at Grand Valley State University where he has gotten dean’s list.  
 
-      Second paragraph if required.
+      
 
 education:
     - degree: BS in Computer Science
       university: Grand Valley State University 
       time: 2015 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Developer Internship
+      time: April 2018 - Present
+      company: Eidex Insights, Grand Rapids, MI
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        - Front End Development by building out features such chart-maximize modal, filter forward-back buttons and multiple bug fixes. 
+        - Software stack includes React.JS, Redux, HTML, CSS, and QlikSence API
+        - QlikView development of financial, academic, and discipline charts and bug fixes 
+        - Practiced Agile and Scrum development on a startup team of 10 developers. 
 
-          - Bullet point
-          - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Computer Engineering Internship 
+      time: Summer 2017
+      company: Robert Bosch Automotive Multimedia, Plymouth, MI
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - System Tester on 2018 model year Nissan Rogue infotainment system.
+        - Worked directly with Nissan Engineers in road worthiness evaluations 
+        - Communicated with Bosch software developers with JIRA, implemented software patches and checklist tested mission critical features of the infotainment system. 
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Computer Engineering Internship 
+      time: Summer 2016
+      company: Robert Bosch Automotive Multimedia, Novi, MI
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - System Tester on General Motors infotainment system
+        - Communicated with Bosch software developers with JIRA, implemented software patches and checklist tested mission critical features of the infotainment system. 
 
 projects:
     title: Projects
