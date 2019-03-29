@@ -40,10 +40,10 @@ sidebar:
       - item: Cooking
         link:
 
-career-profile:
-    title: Computer Science Student
-    summary: Louis is a ambitious self learner that is enthusiastic to work with skilled web developers. He has had 3 Software Development Internships and has tested and built User Interfaces. At his current internship he is given UI design control over his projects that are developed with React.js, Redux, Bootstrap, SCSS, CSS, HTML, and Font-Awesome API. Louis has experience designing academic, financial and discipline charts with QlikView/ QlikSence that allow the user to filter their data by peer group, age, and ethnicity. He has also built features such as modals, buttons, icons and layouts within a React.js web application. Louis is finishing up his bachelor’s degree in Computer Science at Grand Valley State University where he has gotten dean’s list.  
-    
+career-profile: 
+    title: 
+    summary: |
+    Louis is a ambitious self learner that is enthusiastic to work with skilled web developers. He has had 3 Software Development Internships and has tested and built User Interfaces. At his current internship he is given UI design control over his projects that are developed with React.js, Redux, Bootstrap, SCSS, CSS, HTML, and Font-Awesome API. Louis has experience designing academic, financial and discipline charts with QlikView/ QlikSence that allow the user to filter their data by peer group, age, and ethnicity. He has also built features such as modals, buttons, icons and layouts within a React.js web application. Louis is finishing up his bachelor’s degree in Computer Science at Grand Valley State University where he has gotten dean’s list.  
 
       
 
@@ -92,7 +92,7 @@ projects:
     assignments:
       - title: No Sign In Sheet
         link: https://github.com/sullivlo/noSignInSheet/tree/master/no-sign-in-sheet
-        tagline: "The problem we are addressing is the frustration of taking attendance for each class, keeping track of each class session attendance, and verifying students are not signing in for each other. A solution to this problem should be digital, easy to use, accessible via mobile devices, and provide verification that the students are actually in class. <a href="https://cis.gvsu.edu/~sullivlo/noSignInSheet/no-sign-in-sheet/dist/#/">no-sign-in-sheet</a>"
+        tagline: "The problem we are addressing is the frustration of taking attendance for each class, keeping track of each class session attendance, and verifying students are not signing in for each other. A solution to this problem should be digital, easy to use, accessible via mobile devices, and provide verification that the students are actually in class."
 
 
 skills:
@@ -101,7 +101,7 @@ skills:
     toolset:
       - name: Javascript
         level: 65%
-
+        
       - name: Python
         level: 65%
 
