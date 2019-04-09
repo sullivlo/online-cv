@@ -30,18 +30,22 @@ sidebar:
 
      
 
-    interests:
-      - item: Running
+    tools:
+      - item: Git, npn, yarn
         link:
 
-      - item: Snowboarding
+      - item: Bootstrap, FontAwesome
         link:
 
-      - item: Cooking
+      - item: QlikSense/ QlikView API
+        link:
+        
+      - item: Adope Acrobat 
         link:
 
 career-profile: Summary
-    summary: > Louis is a ambitious self learner that is enthusiastic to work with skilled web developers. He has had 3 Software Development Internships and has tested and built User Interfaces. At his current internship he is given UI design control over his projects that are developed with React.js, Redux, Bootstrap, SCSS, CSS, HTML, and Font-Awesome API. Louis has experience designing academic, financial and discipline charts with QlikView/ QlikSence that allow the user to filter their data by peer group, age, and ethnicity. He has also built features such as modals, buttons, icons and layouts within a React.js web application. Louis is finishing up his bachelor’s degree in Computer Science at Grand Valley State University where he has gotten dean’s list.  
+    summary: > 
+    Louis is a ambitious self learner that is enthusiastic to work with skilled web developers. He has had 3 Software Development Internships and has tested and built User Interfaces. At his current internship he is given UI design control over his projects that are developed with React.js, Redux, Bootstrap, SCSS, CSS, HTML, and Font-Awesome API. Louis has experience designing academic, financial and discipline charts with QlikView/ QlikSence that allow the user to filter their data by peer group, age, and ethnicity. He has also built features such as modals, buttons, icons and layouts within a React.js web application. Louis is finishing up his bachelor’s degree in Computer Science at Grand Valley State University where he has gotten dean’s list.  
 
       
 
