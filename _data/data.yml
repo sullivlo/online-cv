@@ -87,8 +87,7 @@ projects:
     assignments:
       - title: No Sign In Sheet
         link: https://github.com/sullivlo/noSignInSheet/tree/master/no-sign-in-sheet
-        tagline: "The problem we are addressing is the frustration of taking attendance for each class, keeping track of each class session attendance, and verifying students are not signing in for each other. A solution to this problem should be digital, easy to use, accessible via mobile devices, and provide verification that the students are actually in class."
-
+        tagline: "Tired of the outdated roll call, save time by making the roll call digital! Vue.js web [app](https://cis.gvsu.edu/~sullivlo/noSignInSheet/no-sign-in-sheet/dist/#/login) with Firebase Oauth2 which allows teachers to create classes and class sessions which allows the students to join a class and mark themselves as present in the current session. The app relies on the time stamp and gps location of the class session to verify a student is present during the class session."
 
 skills:
     title: Skills &amp; Proficiency
