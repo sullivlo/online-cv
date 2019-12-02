@@ -53,8 +53,18 @@ career-profile:
       He has also built features such as modals, buttons, icons and layouts within a React.js web application. Louis is finishing up his bachelor’s degree in Computer Science at Grand Valley State University where he has gotten dean’s list.  
 
 experiences:
+    - role: Front End Web Developer
+      time: June 2018 - Present
+      company: 3Vue LLC, Chicago, IL
+      detail: |
+        - Sole web developer responsible for implementing QlikSense Mashups that allow leading pharmaceutical companies to get on demand data analytics.
+        - QlikSense mashup development and deployment on enterprise networks
+        - Software stack: React.JS, Redux, HTML, CSS, QlikSence, and Material UI
+        - Automated approval process for sales workflow using Zoho CRM to save time emailing pdfs
+	
+
     - role: Software Developer Internship
-      time: April 2018 - Present
+      time: 2018 - 2019
       company: Eidex Insights, Grand Rapids, MI
       details: |
         - Front End Development by building out features such chart-maximize modal, filter forward-back buttons and multiple bug fixes. 
@@ -94,19 +104,21 @@ skills:
 
     toolset:
       - name: Javascript
-        level: 65%
+        level: 85%
+        
+      - name: React.js
+        level: 85%
+
+      - name: HTML5 & CSS
+        level: 85%
+
+      - name: BootStrap
+        level: 75%
         
       - name: Python
         level: 65%
 
-      - name: React.js
-        level: 55%
-
-      - name: HTML5 & CSS
-        level: 55%
-
-      - name: BootStrap
-        level: 45%
+ 
 
     
 
