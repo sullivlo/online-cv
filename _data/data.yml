@@ -56,7 +56,7 @@ experiences:
     - role: Front End Web Developer
       time: June 2018 - Present
       company: 3Vue LLC, Chicago, IL
-      detail: |
+      details: |
         - Sole web developer responsible for implementing QlikSense Mashups that allow leading pharmaceutical companies to get on demand data analytics.
         - QlikSense mashup development and deployment on enterprise networks
         - Software stack: React.JS, Redux, HTML, CSS, QlikSence, and Material UI
