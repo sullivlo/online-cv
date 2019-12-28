@@ -48,7 +48,7 @@ career-profile:
     summary: |
       Louis is an ambitious self learner that is enthusiastic to work with skilled web developers. 
       He has had 2 years of website development experiance and 3 Software Development Internships where he has tested and built User Interfaces. 
-      At his current software engineering jon he is given UI design control over his projects that are developed with React.js, Redux, Bootstrap, SCSS, CSS, HTML, and Font-Awesome API. 
+      At his current software engineering job he is given UI design control over his projects that are developed with React.js, Redux, Bootstrap, SCSS, CSS, HTML, and Font-Awesome API. 
       Louis has experience designing academic, financial and discipline charts with QlikView/ QlikSence that allow the user to filter their data by peer group, age, and ethnicity. 
       He has also built features such as modals, buttons, icons and layouts within a React.js web application.   
 
@@ -61,11 +61,7 @@ experiences:
         - QlikSense mashup development and deployment on enterprise networks
         - Software stack: React.JS, Redux, HTML, CSS, QlikSence, and Material UI
         - Automated approval process for sales workflow using Zoho CRM to save time emailing pdfs
-        - Sole web developer responsible for implementing QlikSense Mashups that allow leading pharmaceutical companies to get on demand data analytics.
-        - QlikSense mashup development and deployment on enterprise networks
-        - Software stack: React.JS, Redux, HTML, CSS, QlikSence, and Material UI
-        - Automated approval process for sales workflow using Zoho CRM to save time emailing pdfs
-        - Developed human resources intranet site using Wordpress 
+        - Developed human resources intranet site using WordPress 
 
 
 
